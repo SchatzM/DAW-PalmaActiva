@@ -1,0 +1,290 @@
+:root {
+	--web-view-ids: Artboard___1;
+	--web-view-name: Artboard – 1;
+	--web-view-id: Artboard___1;
+	--web-scale-to-fit: false;
+	--web-scale-to-fit-type: default;
+	--web-enable-scale-up: false;
+	--web-scale-on-resize: false;
+	--web-show-scale-controls: false;
+	--web-scale-on-double-click: false;
+	--web-center-horizontally: true;
+	--web-center-vertically: false;
+	--web-actual-size-on-double-click: false;
+	--web-navigate-on-keypress: false;
+	--web-refresh-for-changes: false;
+	--web-add-image-compare: false;
+	--web-show-by-media-query: false;
+	--web-application: true;
+	--web-show-navigation-controls: false;
+	--web-enable-deep-linking: true;
+	--web-is-overlay: false;
+}
+#Artboard___1 {
+	display: none;
+}
+@media (min-width: 0px) {
+	.mediaViewInfo {
+		--web-view-name: Artboard – 1;
+		--web-view-id: Artboard___1;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Artboard___1,body {
+		position: absolute;
+		transform: translateX(-50%);
+		left: 50%;
+		display: block;
+		width: 1366px;
+		height: 1213px;
+		background-color: rgba(255,255,255,1);
+		overflow-x: hidden;
+		--web-view-name: Artboard – 1;
+		--web-view-id: Artboard___1;
+		--web-center-horizontally: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	#Group_1 {
+		position: absolute;
+		width: 1366px;
+		height: 1193px;
+		left: 0px;
+		top: 20px;
+		overflow: visible;
+	}
+	.Rectangle_1_i {
+		position: absolute;
+		overflow: visible;
+		width: 1000px;
+		height: 294px;
+		left: 183px;
+		top: 50px;
+	}
+	#Inicio {
+		position: absolute;
+		left: 183px;
+		top: 0px;
+		overflow: visible;
+		width: 53px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: "HelveticaNeue";
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(69,77,132,1);
+	}
+	#Galeria {
+		position: absolute;
+		left: 339px;
+		top: 0px;
+		overflow: visible;
+		width: 69px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: "HelveticaNeue";
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(69,77,132,1);
+	}
+	#Empresas {
+		position: absolute;
+		left: 495px;
+		top: 0px;
+		overflow: visible;
+		width: 97px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: "HelveticaNeue";
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(69,77,132,1);
+	}
+	#Contactar {
+		position: absolute;
+		left: 651px;
+		top: 0px;
+		overflow: visible;
+		width: 96px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: "HelveticaNeue";
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(69,77,132,1);
+	}
+	#Rect_ngulo_2_2x {
+		position: absolute;
+		width: 350px;
+		height: 293px;
+		left: 183px;
+		top: 390px;
+		overflow: visible;
+	}
+	#Lorem_ipsum_dolor_sit_amet__co {
+		position: absolute;
+		left: 568px;
+		top: 390px;
+		overflow: visible;
+		width: 616px;
+		height: 293px;
+		line-height: 24px;
+		text-align: left;
+		font-family: "HelveticaNeue";
+		font-style: normal;
+		font-size: 20px;
+		color: rgba(69,77,132,1);
+		letter-spacing: -0.2px;
+	}
+	#Elipse_1_2x {
+		position: absolute;
+		width: 204px;
+		height: 204px;
+		left: 291px;
+		top: 789px;
+		overflow: visible;
+	}
+	#Elipse_2_2x {
+		position: absolute;
+		width: 204px;
+		height: 204px;
+		left: 581px;
+		top: 789px;
+		overflow: visible;
+	}
+	#Elipse_3_2x {
+		position: absolute;
+		width: 204px;
+		height: 204px;
+		left: 871px;
+		top: 789px;
+		overflow: visible;
+	}
+	#Ana {
+		position: absolute;
+		left: 376px;
+		top: 1002px;
+		overflow: visible;
+		width: 36px;
+		white-space: nowrap;
+		line-height: 24px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: "HelveticaNeue";
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(69,77,132,1);
+	}
+	#Maria {
+		position: absolute;
+		left: 666px;
+		top: 1002px;
+		overflow: visible;
+		width: 51px;
+		white-space: nowrap;
+		line-height: 24px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: "HelveticaNeue";
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(69,77,132,1);
+	}
+	#Pedro {
+		position: absolute;
+		left: 948px;
+		top: 1002px;
+		overflow: visible;
+		width: 55px;
+		white-space: nowrap;
+		line-height: 24px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: "HelveticaNeue";
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(69,77,132,1);
+	}
+	#Gesti_n_Global {
+		position: absolute;
+		left: 338px;
+		top: 1025px;
+		overflow: visible;
+		width: 112px;
+		height: 21px;
+		line-height: 22px;
+		margin-top: -2.5px;
+		text-align: center;
+		font-family: "Helvetica 45";
+		font-style: italic;
+		font-weight: bold;
+		color: rgb(58 72 117);
+	}
+	#Gerente {
+		position: absolute;
+		left: 660px;
+		top: 1025px;
+		overflow: visible;
+		width: 63px;
+		height: 21px;
+		line-height: 22px;
+		margin-top: -2.5px;
+		text-align: center;
+		font-family: "Helvetica 45";
+		font-style: italic;
+		font-weight: bold;
+		color: rgb(58 72 117);
+	}
+	#Servicio_T_cnico {
+		position: absolute;
+		left: 911px;
+		top: 1025px;
+		overflow: visible;
+		width: 128px;
+		height: 21px;
+		line-height: 22px;
+		margin-top: -2.5px;
+		text-align: center;
+		font-family: "Helvetica 45";
+		font-style: italic;
+		font-weight: bold;
+		color: rgb(58 72 117);
+	}
+	.Rectangle_2 {
+		position: absolute;
+		overflow: visible;
+		width: 1366px;
+		height: 61px;
+		left: 0px;
+		top: 1132px;
+	}
+	#__Copyright_2020 {
+		position: absolute;
+		left: 604px;
+		top: 1152px;
+		overflow: hidden;
+		height: 23px;
+		line-height: 22px;
+		text-align: center;
+		font-family: "HelveticaNeue";
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+}
